@@ -1,0 +1,16 @@
+D:\Marco\Cursos\C#\ShiftNumber\ShiftNumber\bin\Debug\net5.0\ShiftNumber.exe
+D:\Marco\Cursos\C#\ShiftNumber\ShiftNumber\bin\Debug\net5.0\ShiftNumber.deps.json
+D:\Marco\Cursos\C#\ShiftNumber\ShiftNumber\bin\Debug\net5.0\ShiftNumber.runtimeconfig.json
+D:\Marco\Cursos\C#\ShiftNumber\ShiftNumber\bin\Debug\net5.0\ShiftNumber.runtimeconfig.dev.json
+D:\Marco\Cursos\C#\ShiftNumber\ShiftNumber\bin\Debug\net5.0\ShiftNumber.dll
+D:\Marco\Cursos\C#\ShiftNumber\ShiftNumber\bin\Debug\net5.0\ref\ShiftNumber.dll
+D:\Marco\Cursos\C#\ShiftNumber\ShiftNumber\bin\Debug\net5.0\ShiftNumber.pdb
+D:\Marco\Cursos\C#\ShiftNumber\ShiftNumber\obj\Debug\net5.0\ShiftNumber.csproj.AssemblyReference.cache
+D:\Marco\Cursos\C#\ShiftNumber\ShiftNumber\obj\Debug\net5.0\ShiftNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Marco\Cursos\C#\ShiftNumber\ShiftNumber\obj\Debug\net5.0\ShiftNumber.AssemblyInfoInputs.cache
+D:\Marco\Cursos\C#\ShiftNumber\ShiftNumber\obj\Debug\net5.0\ShiftNumber.AssemblyInfo.cs
+D:\Marco\Cursos\C#\ShiftNumber\ShiftNumber\obj\Debug\net5.0\ShiftNumber.csproj.CoreCompileInputs.cache
+D:\Marco\Cursos\C#\ShiftNumber\ShiftNumber\obj\Debug\net5.0\ShiftNumber.dll
+D:\Marco\Cursos\C#\ShiftNumber\ShiftNumber\obj\Debug\net5.0\ref\ShiftNumber.dll
+D:\Marco\Cursos\C#\ShiftNumber\ShiftNumber\obj\Debug\net5.0\ShiftNumber.pdb
+D:\Marco\Cursos\C#\ShiftNumber\ShiftNumber\obj\Debug\net5.0\ShiftNumber.genruntimeconfig.cache
